@@ -1,0 +1,5 @@
+package com.capg.springcore.bean;
+
+public class MessageBean {
+
+}

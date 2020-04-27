@@ -1,0 +1,5 @@
+package com.capg.springcore.config;
+
+public class MessageConfig {
+
+}
